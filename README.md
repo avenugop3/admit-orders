@@ -1,5 +1,5 @@
 # admit-orders
 
-admit: to 7B to Dr. Higgins GI service
-diagnosis: variceal bleeding
-condition: guarded
+admit: to 7B to Dr. Higgins GI service <br>
+diagnosis: variceal bleeding <br>
+condition: guarded <br>
